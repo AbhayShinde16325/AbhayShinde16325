@@ -50,6 +50,6 @@ I like pipelines that don’t break, queries that make sense, and learning thing
 ---
 
 ## 📫 Reach me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/abhay-shinde-7648a9279/)
 
 
