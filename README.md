@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Abhay 👋
 
-<!--
-**AbhayShinde16325/AbhayShinde16325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a computer engineering student who enjoys turning messy data into clean, reliable systems.  
+I like pipelines that don’t break, queries that make sense, and learning things from first principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About me
+- Curious about **data engineering**, backend systems, and how data moves at scale  
+- Believe good data > fancy dashboards  
+- Prefer understanding *why* something works, not just *how*
+
+---
+
+## 🧱 What I work with
+- **Languages:** Python, SQL, Java (learning deeper every day)
+- **Data:** MongoDB, PostgreSQL
+- **Analytics:** Power BI, Tableau
+- **Backend:** Flask (basics → building blocks)
+- **Tools:** Git, Docker
+
+---
+
+## 🏗️ Currently building
+- Resume-ready **data + backend projects**
+- Foundations of **data engineering** (ETL, schemas, pipelines)
+
+
+---
+
+## 🧠 How I think about data
+- Data should be **trustworthy before it’s pretty**
+- Pipelines should fail **loudly, not silently**
+- Automation is respect for future-you
+
+---
+
+## 📌 Goals for 2026
+- Build at least **3 end-to-end data projects**
+- Get comfortable with **distributed data concepts**
+- Contribute to **open-source**, even in small ways
+
+---
+
+## 🎯 Fun facts
+- I enjoy debugging ETL bugs more than writing UI
+- I like projects that run quietly for months without breaking
+- Documentation is underrated and I stand by that
+
+---
+
+## 📫 Reach me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+
+
